@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Motor de Reservas", "Motor de Reservas\Motor de Reservas.csproj", "{447D0CB4-523B-47C7-AC4F-0C281B347450}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomCloud", "RoomCloud\RoomCloud.csproj", "{8387AFFC-29E7-48A4-AAF6-3988F1733B2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "RoomCloud\Repository.csproj", "{8387AFFC-29E7-48A4-AAF6-3988F1733B2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
